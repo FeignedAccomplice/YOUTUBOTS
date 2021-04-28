@@ -15,8 +15,6 @@ https://github.com/asrdri/yt-metabot-user-js
 
 https://github.com/civsocit/gosvon
 
-https://github.com/cyberdonos/cyberdonos-browser-extension
-
 ==========================================
 
 Текущий список ботов — наследник и правоприемник
